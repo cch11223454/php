@@ -1,1 +1,0 @@
-将PHPMailer文件夹拷贝到ThinkPHP的Vendor目录
